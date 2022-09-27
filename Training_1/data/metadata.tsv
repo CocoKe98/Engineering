@@ -1,0 +1,19 @@
+Name	Gender	Age_Greater_Than_50	English_First_Language	Asian_Or_European	Use_Glass	Engineering	Science	Bioinformatics	ProjectManager	Speak_Chinese	Country_Born	Team	Manager	Title
+Ted Wong	Male	False	False	Asian	True	True	False	False	True	True	Hong Kong	Engineering	Matt Keon	Technical Lead
+Matt Keon	Male	False	True	European	True	False	False	True	True	False	Australia	Bioinformatics	Matt Keon	Founder-CEO
+Sheria Ma	Female	False	False	Asian	False	False	True	False	True	False	Australia	Science	Matt Keon	Chief Scientific officer
+Jannah Shamsani	Female	False	False	European	False	False	False	True	True	False	Australia	Bioinformatics	Matt Keon	Head of Bioinformatics
+Anne Trinh	Female	False	True	Asian	False	False	True	False	True	False	Australia	Science	Matt Keon	Head of Data Science
+Graeme Moore	Male	True	True	European	True	False	True	False	True	False	Australia	Science	Matt Keon	Head of Regulatory Affairs
+Sam Brennan	Male	False	True	European	True	False	True	False	True	False	Australia	Science	Matt Keon	Research Lead
+Phillip West	Male	False	True	European	True	False	True	False	False	False	Australia	Science	Sam Brennan	Research Associate
+Cameron Wells	Male	False	True	European	False	False	True	False	False	False	Australia	Science	Sam Brennan	Research Associate
+Abdul Karim	Male	False	True	Asian	True	True	True	False	True	False	Australia	Engineering	Ted Wong	Machine Learning Lead
+Avinash Mishra	Male	False	True	Asian	True	False	True	False	True	False	Australia	Science	Matt Keon	Drug Discovery Lead
+John Su	Male	False	False	Asian	True	False	False	True	True	True	China	Bioinformatics	Matt Keon	Lead Bioinformatician
+Ognjen Millicevic	Male	False	True	European	False	False	False	True	False	False	Australia	Bioinformatics	Jannah Shamsani	Bioinformatician
+Shriya Shah 	Female	False	False	Asian	False	False	True	False	False	False	Australia	Science	Sam Brennan	Research Scientist
+Lara Dragasevich	Female	False	True	European	True	True	False	False	True	False	Australia	Engineering	Matt Keon	Project Manager
+Ashton Curry-Hyde	Female	False	True	European	False	False	False	True	False	False	Australia	Bioinformatics	Jannah Shamsani	Bioinfornatician
+Derly Figueroa	Female	False	False	Asian	False	False	True	False	False	False	Australia	Science	Matt Keon	Marketing Coordinator
+Coco Ke	Female	False	False	Asian	False	True	False	False	False	True	China	Engineering	Ted Wong	Software Engineer
