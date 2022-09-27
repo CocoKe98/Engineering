@@ -2,9 +2,6 @@
 
 ## Training 1
 
-* Convert the Excel file to a TSV file
+* 1. Convert the Excel file to a TSV file
 
-Run the following to convert data:
-
-* `python3 firebase_read.py test testData`
-* `python3 firebase_read.py spielberg Spielberg`
+* 2. Write a Javascript program that reads this TSV file into an array of dictionaries.
